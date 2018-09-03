@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/accessing-data-mysql.iml" filepath="$PROJECT_DIR$/accessing-data-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accessing-data-mysql_main.iml" filepath="$PROJECT_DIR$/.idea/modules/accessing-data-mysql_main.iml" group="accessing-data-mysql" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accessing-data-mysql_test.iml" filepath="$PROJECT_DIR$/.idea/modules/accessing-data-mysql_test.iml" group="accessing-data-mysql" />
     </modules>
   </component>
 </project>
